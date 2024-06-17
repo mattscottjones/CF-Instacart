@@ -1,4 +1,4 @@
-# CF-Instacart
+# Instacart - Grocery Basket Analysis
 <p align="center">
   <img src="https://getvectorlogo.com/wp-content/uploads/2022/08/instacart-vector-logo-2022.png" width='500'>
 </p>
@@ -35,6 +35,8 @@ Instacart, an online grocery store that operates through an app, already has gre
 3. Scripts: Jupyter notebooks containing all code
 4. Analysis: Visualizations used in the analysis
 5. Sent to Client: Final Excel report
+
+_Data wrangling/cleaning and analysis steps are all documented in both the scripts and final Excel report_
 
 
 ## DATA
