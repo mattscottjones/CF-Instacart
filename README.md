@@ -21,6 +21,8 @@ Instacart, an online grocery store that operates through an app, already has gre
 9. What different **classifications** does the demographic information suggest?
 10. What differences can you find in **ordering habits of different customer profiles**?
 
+<img src="04. Analysis/By Profile/cluster_profile_top_depart.png" width='700'>
+
 
 ## CONTENTS
 1. Project Management
