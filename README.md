@@ -1,5 +1,6 @@
 # CF-Instacart
-![Alt]
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Instacart_logo_and_wordmark.svg/440px-Instacart_logo_and_wordmark.svg.png">
 Initial exploratory analysis to derive insights and strategies for customer segmentation
 
 ## CONTEXT
