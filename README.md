@@ -1,23 +1,59 @@
 # CF-Instacart
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Instacart_logo_and_wordmark.svg/440px-Instacart_logo_and_wordmark.svg.png">
-Initial exploratory analysis to derive insights and strategies for customer segmentation
+<p align="center">
+  <img src="https://getvectorlogo.com/wp-content/uploads/2022/08/instacart-vector-logo-2022.png" width='500'>
+</p>
+<h3 align="center">
+  Initial exploratory analysis to derive insights and strategies for customer segmentation
+</h3>
 
 ## CONTEXT
 Instacart, an online grocery store that operates through an app, already has great sales, but they want to uncover more information about their sales patterns. Instacart stakeholders are most interested in the shopping behavior of the variety of customers in their database. They assume they can't target everyone with the same methods, and instead would like to target different customers with an applicable marketing campaign. This exploratory analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
 
 ## KEY QUESTIONS
-1. In order to schedule ads when there are FEWER orders, what are the busiest days of the week and hours of the day?
-2. In order to inform what products to advertise and when, are there times of the day when people spend the most money?
-3. Because there are so many items with different price tags, how can we simplify the price range groupings?
-4. In order to determine which department has the highest frequency of product orders, are there certain types of products that are more popular than others?
-5. What’s the distribution among users in regards to their brand loyalty?
-6. Are there differences in ordering habits based on a customer’s loyalty status?
-7. Are there differences in ordering habits based on a customer’s region?
-8. Is there a connection between age and family status in terms of ordering
-habits?
-9. What different classifications does the demographic information suggest?
-Age? Income? Certain types of goods? Family status?
-10. Considering the price of orders, the frequency of orders, the products customers are ordering, etc., what differences can you find in ordering habits of different customer
-profiles?
+1. What are the **busiest days** of the week and **hours** of the day?
+2. Are there times of the day when people spend the most money?
+3. How can we simplify the **price range groupings**?
+4. Are there certain **types of products** that are more popular than others?
+5. What’s the **distribution** among users in regards to their **brand loyalty**?
+6. Are there differences in **ordering habits** based on a customer’s **loyalty status**?
+7. Are there differences in **ordering habits** based on a **customer’s region**?
+8. Is there a connection between **age and family status** in terms of **ordering habits**?
+9. What different **classifications** does the demographic information suggest?
+10. What differences can you find in **ordering habits of different customer profiles**?
 
+
+## CONTENTS
+1. Project Management
+     * Project Brief
+     * Data Dictionary
+2. Data: _Data is not uploaded due to their large size_
+     * Original Data
+     * Prepared Data
+3. Scripts: Jupyter notebooks containing all code
+4. Analysis: Visualizations used in the analysis
+5. Sent to Client: Final Excel report
+
+
+## DATA
+Instacart open-source data sets used:
+* orders
+* products
+* departments
+* orders_products_prior
+* customers
+
+The full details of the data are available **[here](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)**
+
+
+## TOOLS
+For this project, the following Python libraries were used:
+* pandas - for data analysis
+* numpy - for mathematical equations
+* matplotlib + seaborn - for visualization
+* scipy - for data equations
+
+
+## NOTES
+Instacart is a real company that has made their data available offline. The contents of this project brief were fabricated for educational purposes by CareerFoundry.
+
+"The Instacart Online Grocery Shopping Dataset 2017”, was accessed from [Kaggle](https://www.instacart.com/datasets/grocery-shopping-2017) on June 1, 2024
